@@ -17,7 +17,7 @@
         <li><strong>Data Persistence:</strong> The application keeps track of learned words and updates the CSV file accordingly.</li>
     </ol>
 
-   <h2>Installation Steps:</h2>
+   <h2>Installation:</h2>
     <ol>
         <li><strong>Clone Repository:</strong> Clone the Flashy repository to your local machine.</li>
         <li><strong>Navigate to Project Directory:</strong> Open a terminal or command prompt and navigate to the project directory.</li>
